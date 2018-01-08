@@ -48,23 +48,23 @@
 	
    <article>
 		<nav class="btn-bar nav-dark ">
-			<a href="index.html" class="btn btn-glass">
+			<a href="index.php" class="btn btn-glass">
 				home
 			</a>
-			<a href="if-else_study.html" class="btn btn-glass btn-primary">
+			<a href="if-else_study.php" class="btn btn-glass btn-primary">
 				<i class="fa fa-fw fa-lg fa-chevron-right"></i> If-else
 			</a>
-			<a href="switch-case_study.html" class="btn btn-glass btn-success">
+			<a href="switch-case_study.php" class="btn btn-glass btn-success">
 				<i class="fa fa-fw fa-lg fa-check"></i> Switch-case
 			</a>
-			<a href="ternary_study.html" class="btn btn-glass btn-warning">
+			<a href="ternary_study.php" class="btn btn-glass btn-warning">
 				<i class="fa fa-fw fa-lg fa-exclamation "></i> 
 				ternary conditional operator
 			</a>
-			<a href="games.html" class="btn btn-glass btn-danger">
+			<a href="games.php" class="btn btn-glass btn-danger">
 				<i class="fa fa-fw fa-lg fa-times"></i> games
 			</a>
-			<a href="aboutus.html" class="btn btn-glass btn-info">
+			<a href="aboutus.php" class="btn btn-glass btn-info">
 				<i class="fa fa-fw fa-lg fa-info "></i> browsing history
 			</a>
 		</nav>

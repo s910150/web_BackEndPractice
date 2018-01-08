@@ -1,3 +1,5 @@
+<html>
+<body>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
 //資料庫設定
@@ -23,3 +25,5 @@ $result = mysql_query($sql) or die("MySQL query error");
 if(!@mysql_select_db($db_name))
         die("無法使用資料庫");
 ?> 
+</body>
+</html>
